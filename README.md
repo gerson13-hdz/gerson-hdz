@@ -1,2 +1,2 @@
-# gerson-hdz
-My personal repository
+# Gerson Hernandez - Data Analyst Portfolio
+## About me
