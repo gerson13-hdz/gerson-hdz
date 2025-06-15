@@ -13,5 +13,6 @@
 
 **Technology:** Power BI, SQL, DAX.
 
-![image](https://github.com/user-attachments/assets/b02dfe11-e886-4e77-bca8-9cfa81adc65d)
+![image](https://github.com/user-attachments/assets/5ecb9285-881b-4ad1-ad28-59a5dc88ad94)
+
 
