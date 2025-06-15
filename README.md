@@ -3,6 +3,19 @@
 ### A highly skilled and results-driven Power BI Developer with over 3 years of experience in transforming raw data into meaningful insights using Microsoft Power BI. Adept at designing, developing, and deploying interactive reports and dashboards for various business needs. Expertise in data modeling, visualization, and applying business intelligence tools to enhance decision-making processes
 
 ## Portfolio Projects
+### US CAR sales (Study Case)
+
+**Goal:** To develop an interactive Power BI dashboard analyzing U.S. car sales in 2014, aimed at identifying trends by brand, vehicle type, and geographic region.
+
+**Description:** This academic project involved building a sales analysis report using a historical dataset from 2014. The complete data pipeline was executed in Power BI, including data import, transformation, and modeling, with proper data cleaning and normalization steps.
+The dashboard features interactive visualizations such as bar charts, maps, and KPI cards to compare performance by brand, vehicle type (SUV, sedan, pickup, etc.), and states with the highest sales volume. DAX measures were developed to calculate market share, cumulative sales, and monthly averages.
+
+**Skills:** data cleaning, data analysis, data modeling, data visualization.
+
+![image](https://github.com/user-attachments/assets/0c362256-5cac-4bc2-a247-2fb44de9576a)
+
+
+**Technology:** Power BI, SQL, DAX.
 ### First Pass Yield Performance
 
 **Goal:** To determine what factors contribute to loss rate on quality for manufactured products.
